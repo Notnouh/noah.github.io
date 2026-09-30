@@ -1,4 +1,4 @@
-# noah.github.io
+# github-practice.github.io
 Name: Noah Nava
 
 Course: Introduction to Computer Science
